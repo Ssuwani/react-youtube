@@ -6,6 +6,7 @@ This project was followed by [youtube channel of 'JavaScript Mastery'](https://w
 ## How to Run
 ```bash
 git clone https://github.com/Ssuwani/react-youtube
+cd react-youtube
 npm i
 npm start
 ```
