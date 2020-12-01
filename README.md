@@ -1,6 +1,6 @@
 # YouTube Clone Web
 
-This project was followed by [youtube channel of 'JavaScript Mastery'](https://www.youtube.com/watch?v=VPVzx1ZOVuw&t=988s)
+This project was followed by [youtube channel of 'JavaScript Mastery'](https://www.youtube.com/watch?v=VPVzx1ZOVuw)
 
 
 ## How to Run
